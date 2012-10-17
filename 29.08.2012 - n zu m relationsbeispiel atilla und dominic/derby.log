@@ -1,0 +1,15 @@
+Wed Aug 29 09:23:37 CEST 2012 : Apache Derby Network Server 10.8.2.2 - (1181258) wurde gestartet und ist bereit, Verbindungen am Port 1527 zu akzeptieren.
+----------------------------------------------------------------
+Wed Aug 29 09:23:41 CEST 2012:
+Booten von Derby Version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): Instanz a816c00e-0139-7143-9105-ffffc50372fd
+für Datenbankverzeichnis H:\Workspace Semester 5 und 6\29.08.2012 - n zu m relationsbeispiel atilla und dominic\sample   mit Klassenladeprogrammn sun.misc.Launcher$AppClassLoader@136228
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_05-b06
+user.dir=H:\Workspace Semester 5 und 6\29.08.2012 - n zu m relationsbeispiel atilla und dominic
+derby.system.home=H:\Workspace Semester 5 und 6\29.08.2012 - n zu m relationsbeispiel atilla und dominic
+Das Ladeprogramm für Datenbankklassen wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Aug 29 11:41:08 CEST 2012:
+Instanz a816c00e-0139-7143-9105-ffffc50372fd im Datenbankverzeichnis H:\Workspace Semester 5 und 6\29.08.2012 - n zu m relationsbeispiel atilla und dominic\sample mit Klassenlader sun.misc.Launcher$AppClassLoader@136228 wird heruntergefahren
+Wed Aug 29 11:41:09 CEST 2012 Thread[DRDAConnThread_4,5,main] (DATABASE = sample), (DRDAID = {68}), Die Datenbank 'sample' wird heruntergefahren.

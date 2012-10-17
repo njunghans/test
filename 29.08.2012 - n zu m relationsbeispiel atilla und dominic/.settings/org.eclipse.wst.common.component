@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="29.08.2012 - n zu m relationsbeispiel atilla und dominic">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="primefaces-3.4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/H:/EDV/primefaces-3.4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="29.08.2012_-_n_zu_m_relationsbeispiel_atilla_und_dominic"/>
+        <property name="java-output-path" value="/29.08.2012 - n zu m relationsbeispiel atilla und dominic/build/classes"/>
+    </wb-module>
+</project-modules>
